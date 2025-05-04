@@ -125,6 +125,6 @@ Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaat
 * API oleh [TheMealDB](https://www.themealdb.com/)
 
 
-Dibuat oleh: **Hendra Hermawan**
+Dibuat oleh: **Hendra,** **Alik,** **Suparman,** **Rofi**
 
 ---
