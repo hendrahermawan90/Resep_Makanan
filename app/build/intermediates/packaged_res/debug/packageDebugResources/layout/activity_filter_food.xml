@@ -94,14 +94,18 @@
                 android:textStyle="bold" />
 
             <!-- RecyclerView -->
+
+            <!-- ProgressBar -->
+
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rvFilter"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/tvTitle"
-                android:layout_margin="10dp" />
+                android:layout_margin="10dp"
+                android:layout_marginTop="98dp"
+                android:layout_marginBottom="10dp" />
 
-            <!-- ProgressBar -->
             <ProgressBar
                 android:id="@+id/progressBar"
                 android:layout_width="wrap_content"

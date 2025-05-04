@@ -3,6 +3,7 @@ local
 color colorAccent
 color colorPrimary
 color colorPrimaryDark
+color ic_launcher_background
 drawable bg_circle_radius_primary
 drawable bg_search
 drawable ic_back
@@ -47,6 +48,7 @@ layout list_item_categories
 layout list_item_filter_food
 layout toolbar_main
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string app_name
 string quotes
