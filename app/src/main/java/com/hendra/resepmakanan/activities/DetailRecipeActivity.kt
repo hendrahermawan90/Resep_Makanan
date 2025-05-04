@@ -16,7 +16,6 @@ import com.androidnetworking.AndroidNetworking
 import com.androidnetworking.common.Priority
 import com.androidnetworking.error.ANError
 import com.androidnetworking.interfaces.JSONObjectRequestListener
-import com.hendra.resepmakanan.model.ModelDetailRecipe
 import com.hendra.resepmakanan.model.ModelFilter
 import com.hendra.resepmakanan.networking.Api
 import com.bumptech.glide.Glide
@@ -54,10 +53,11 @@ class DetailRecipeActivity : AppCompatActivity() {
         setSupportActionBar(binding.toolbarDetail)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
-        progressDialog = ProgressDialog(this)
-        progressDialog!!.setTitle("Mohon Tunggu")
-        progressDialog!!.setCancelable(false)
-        progressDialog!!.setMessage("Sedang menampilkan data...")
+        progressDialog = ProgressDialog(this).apply {
+            setTitle("Mohon Tunggu")
+            setCancelable(false)
+            setMessage("Sedang menampilkan data...")
+        }
 
         // Get intent FilterFoodActivity
         modelFilter = intent.getSerializableExtra("detailRecipe") as ModelFilter
@@ -76,100 +76,72 @@ class DetailRecipeActivity : AppCompatActivity() {
                 .into(binding.imgThumb)
 
             // Fetch details for the recipe
-            detailRecipe
+            fetchDetailRecipe()
         }
     }
 
-    private val detailRecipe: Unit
-        private get() {
-            progressDialog!!.show()
-            AndroidNetworking.get(Api.DetailRecipe)
-                .addPathParameter("idMeal", idMeal)
-                .setPriority(Priority.HIGH)
-                .build()
-                .getAsJSONObject(object : JSONObjectRequestListener {
-                    override fun onResponse(response: JSONObject) {
-                        try {
-                            progressDialog!!.dismiss()
-                            val playerArray = response.getJSONArray("meals")
-                            for (i in 0 until playerArray.length()) {
-                                val temp = playerArray.getJSONObject(i)
-                                val dataApi = ModelDetailRecipe()
-                                val Instructions = temp.getString("strInstructions")
-                                binding.tvInstructions.text = Instructions
+    private fun fetchDetailRecipe() {
+        progressDialog?.show()
+        AndroidNetworking.get(Api.DetailRecipe)
+            .addPathParameter("idMeal", idMeal)
+            .setPriority(Priority.HIGH)
+            .build()
+            .getAsJSONObject(object : JSONObjectRequestListener {
+                override fun onResponse(response: JSONObject) {
+                    try {
+                        progressDialog?.dismiss()
+                        val playerArray = response.getJSONArray("meals")
+                        for (i in 0 until playerArray.length()) {
+                            val temp = playerArray.getJSONObject(i)
 
-                                val Category = temp.getString("strCategory")
-                                val Area = temp.getString("strArea")
-                                binding.tvSubTitle.text = "$Category | $Area"
+                            val instructions = temp.optString("strInstructions", "").trim()
+                            binding.tvInstructions.text = "$instructions\n\n"
 
-                                val Source = temp.getString("strSource")
+                            val category = temp.optString("strCategory", "-")
+                            val area = temp.optString("strArea", "-")
+                            binding.tvSubTitle.text = "$category | $area"
+
+                            val source = temp.optString("strSource", "")
+                            if (source.isNotEmpty()) {
                                 binding.tvSource.setOnClickListener {
-                                    val intentYoutube = Intent(Intent.ACTION_VIEW)
-                                    intentYoutube.data = Uri.parse(Source)
-                                    startActivity(intentYoutube)
+                                    val intentSource = Intent(Intent.ACTION_VIEW, Uri.parse(source))
+                                    startActivity(intentSource)
                                 }
-
-                                val Youtube = temp.getString("strYoutube")
-                                binding.tvYoutube.setOnClickListener {
-                                    val intentYoutube = Intent(Intent.ACTION_VIEW)
-                                    intentYoutube.data = Uri.parse(Youtube)
-                                    startActivity(intentYoutube)
-                                }
-
-                                // Get Ingredients
-                                dataApi.strIngredient1 = temp.optString("strIngredient1", "")
-                                dataApi.strIngredient2 = temp.optString("strIngredient2", "")
-                                // ... (Repeat for all ingredients)
-
-                                // Append ingredients to tvIngredients
-                                appendIngredientsToView(dataApi)
-
-                                // Set Measures
-                                appendMeasuresToView(dataApi)
                             }
-                        } catch (e: JSONException) {
-                            e.printStackTrace()
-                            Toast.makeText(this@DetailRecipeActivity,
-                                "Gagal menampilkan data!", Toast.LENGTH_SHORT).show()
+
+                            val youtube = temp.optString("strYoutube", "")
+                            if (youtube.isNotEmpty()) {
+                                binding.tvYoutube.setOnClickListener {
+                                    val intentYoutube = Intent(Intent.ACTION_VIEW, Uri.parse(youtube))
+                                    startActivity(intentYoutube)
+                                }
+                            }
+
+                            // Bersihkan teks sebelumnya agar tidak numpuk
+                            binding.tvIngredients.text = ""
+                            binding.tvMeasure.text = ""
+
+                            // Tampilkan Ingredients & Measure 1–20
+                            for (index in 1..20) {
+                                val ingredient = temp.optString("strIngredient$index", "").trim()
+                                val measure = temp.optString("strMeasure$index", "").trim()
+                                if (ingredient.isNotEmpty() && ingredient != "null") {
+                                    binding.tvIngredients.append("\n\u2022 $ingredient")
+                                    binding.tvMeasure.append("\n: $measure")
+                                }
+                            }
                         }
+                    } catch (e: JSONException) {
+                        e.printStackTrace()
+                        Toast.makeText(this@DetailRecipeActivity, "Gagal menampilkan data!", Toast.LENGTH_SHORT).show()
                     }
+                }
 
-                    override fun onError(anError: ANError) {
-                        progressDialog!!.dismiss()
-                        Toast.makeText(this@DetailRecipeActivity,
-                            "Tidak ada jaringan internet!", Toast.LENGTH_SHORT).show()
-                    }
-                })
-        }
-
-    private fun appendIngredientsToView(dataApi: ModelDetailRecipe) {
-        val ingredients = listOf(
-            dataApi.strIngredient1, dataApi.strIngredient2, dataApi.strIngredient3,
-            dataApi.strIngredient4, dataApi.strIngredient5, dataApi.strIngredient6,
-            dataApi.strIngredient7, dataApi.strIngredient8, dataApi.strIngredient9,
-            dataApi.strIngredient10, dataApi.strIngredient11, dataApi.strIngredient12,
-            dataApi.strIngredient13, dataApi.strIngredient14, dataApi.strIngredient15,
-            dataApi.strIngredient16, dataApi.strIngredient17, dataApi.strIngredient18,
-            dataApi.strIngredient19, dataApi.strIngredient20
-        )
-        ingredients.filter { !it.isNullOrEmpty() }.forEach { ingredient ->
-            binding.tvIngredients.append("\n \u2022 $ingredient")
-        }
-    }
-
-    private fun appendMeasuresToView(dataApi: ModelDetailRecipe) {
-        val measures = listOf(
-            dataApi.strMeasure1, dataApi.strMeasure2, dataApi.strMeasure3,
-            dataApi.strMeasure4, dataApi.strMeasure5, dataApi.strMeasure6,
-            dataApi.strMeasure7, dataApi.strMeasure8, dataApi.strMeasure9,
-            dataApi.strMeasure10, dataApi.strMeasure11, dataApi.strMeasure12,
-            dataApi.strMeasure13, dataApi.strMeasure14, dataApi.strMeasure15,
-            dataApi.strMeasure16, dataApi.strMeasure17, dataApi.strMeasure18,
-            dataApi.strMeasure19, dataApi.strMeasure20
-        )
-        measures.filter { !it.isNullOrEmpty() }.forEach { measure ->
-            binding.tvMeasure.append("\n : $measure")
-        }
+                override fun onError(anError: ANError) {
+                    progressDialog?.dismiss()
+                    Toast.makeText(this@DetailRecipeActivity, "Tidak ada jaringan internet!", Toast.LENGTH_SHORT).show()
+                }
+            })
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
@@ -181,7 +153,6 @@ class DetailRecipeActivity : AppCompatActivity() {
     }
 
     companion object {
-        // Set Transparent Status bar
         fun setWindowFlag(activity: Activity, bits: Int, on: Boolean) {
             val win = activity.window
             val winParams = win.attributes
