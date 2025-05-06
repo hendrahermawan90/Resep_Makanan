@@ -47,6 +47,7 @@ layout list_item_categories
 layout list_item_filter_food
 layout toolbar_main
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string app_name
 string quotes

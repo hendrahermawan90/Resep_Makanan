@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.hendra.resepmakanan.app-mergeDebugResources-2:/values-v26/values-v26.xml",
+            "outputFile": "com.hendra.resepmakanan.app-mergeDebugResources-33:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\caches\\8.10.2\\transforms\\4d74a6775002bc48ffbc7223a5c4d4d3\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\caches\\8.11.1\\transforms\\eb70a3f61f4afb18cfe14a2cd22a113f\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

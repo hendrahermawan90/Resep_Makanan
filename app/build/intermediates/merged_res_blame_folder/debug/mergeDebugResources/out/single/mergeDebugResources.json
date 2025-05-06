@@ -1,150 +1,266 @@
 [
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-xxxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-xxxhdpi\\ic_profile.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-xxxhdpi_ic_profile.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-xxxhdpi\\ic_profile.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-xxxhdpi\\ic_search.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\layout_activity_detail_recipe.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\layout\\activity_detail_recipe.xml"
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.hendra.resepmakanan.app-debug-4:/layout_activity_main.xml.flat",
-        "source": "com.hendra.resepmakanan.app-main-6:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable_placeholder_image.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable\\placeholder_image.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable_bg_circle_radius_primary.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable\\bg_circle_radius_primary.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-anydpi_ic_back.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-anydpi\\ic_back.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable_placeholder_image.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable\\placeholder_image.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-mdpi_ic_back.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-mdpi\\ic_back.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-xxxhdpi_ic_favorite.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-xxxhdpi\\ic_favorite.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-xxhdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-xxxhdpi_ic_notif.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-xxxhdpi\\ic_notif.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\layout_list_item_filter_food.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\layout\\list_item_filter_food.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable_ic_link.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable\\ic_link.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-xhdpi_ic_back.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-xhdpi\\ic_back.png"
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-xxhdpi_ic_back.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-xxhdpi\\ic_back.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-xxxhdpi_ic_notif.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-xxxhdpi\\ic_notif.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\layout_activity_filter_food.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\layout\\activity_filter_food.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-hdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-hdpi_ic_back.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-hdpi\\ic_back.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\layout_list_item_categories.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\layout\\list_item_categories.xml"
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-xxxhdpi_ic_search.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-xxxhdpi\\ic_search.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable_ic_link.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable\\ic_link.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable_image_not_found.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable\\image_not_found.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable_ic_play.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable\\ic_play.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-xxxhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-xxxhdpi\\ic_favorite.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable_bg_search.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable\\bg_search.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\layout_list_item_filter_food.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\layout\\list_item_filter_food.xml"
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable-xxxhdpi_shadow_white.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable-xxxhdpi\\shadow_white.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\layout_activity_detail_recipe.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\layout\\activity_detail_recipe.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\layout_toolbar_main.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\layout\\toolbar_main.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-xhdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable_bg_circle_radius_primary.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable\\bg_circle_radius_primary.xml"
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-debug-4:\\drawable_image_not_found.xml.flat",
-        "source": "C:\\Users\\HENDRA\\Downloads\\JDK17\\daemon\\8.10.2\\com.hendra.resepmakanan.app-main-6:\\drawable\\image_not_found.xml"
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-anydpi_ic_back.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-anydpi\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-xxxhdpi_shadow_white.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable-xxxhdpi\\shadow_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\layout_activity_filter_food.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\layout\\activity_filter_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\layout_list_item_categories.xml.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\layout\\list_item_categories.xml"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rofi Mubarrok\\.gradle\\daemon\\8.11.1\\com.hendra.resepmakanan.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.hendra.resepmakanan.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
     }
 ]

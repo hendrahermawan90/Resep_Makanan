@@ -3789,6 +3789,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout toolbar_main
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
