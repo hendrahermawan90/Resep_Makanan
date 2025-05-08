@@ -1,10 +1,19 @@
-Siap, Hendra! Ini dia contoh **Storyboard README** buat GitHub project kamu yang isinya menggambarkan alur dan struktur aplikasi **Resep Makanan** yang sudah kamu bangun. Bahasa yang digunakan simple dan informatif, cocok buat dokumentasi pribadi atau kalau kamu mau share ke orang lain.
+# 🍽️ Aplikasi Resep Makanan Android - TheMealDB API
+
+Selamat datang di **Aplikasi Resep Makanan Android**, sebuah aplikasi mobile yang memungkinkan pengguna mencari dan melihat berbagai resep makanan dari seluruh dunia langsung dari genggaman tangan. Aplikasi ini terintegrasi dengan [TheMealDB API](https://www.themealdb.com/api.php), yang menyediakan koleksi resep lengkap, termasuk bahan, langkah memasak, dan video tutorial.
+
+## 📱 Fitur Utama
+- 📚 Jelajahi kategori makanan (dessert, seafood, dll)
+- 🍽️ Pilih masakan yang mau Anda buat
+- 📋 Lihat detail bahan dan langkah memasak
+- 🎥 Tonton video tutorial dari YouTube langsung di aplikasi
+- 🌐 Jelajahi website lengkap untuk resep-resep menarik lainnya
 
 ---
 
-## 🍽️ Resep Makanan App
+## 🎯 Tujuan Proyek
 
-Aplikasi Android sederhana untuk mencari dan melihat resep makanan dari berbagai kategori. Data diambil dari API [TheMealDB](https://www.themealdb.com/).
+Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaatkan REST API eksternal. Fokus utamanya adalah bagaimana mengelola data dari internet secara efisien dan menampilkannya dalam UI yang responsif dan menarik.
 
 ---
 
@@ -115,9 +124,9 @@ Aplikasi Android sederhana untuk mencari dan melihat resep makanan dari berbagai
 ## ✨ Credits
 * Sumber Infromasi : Azhar Rivaldi https://www.youtube.com/watch?v=PX15pj-aHPU&t=5s
 
-* API oleh [TheMealDB](https://www.themealdb.com/)
+* API :  [TheMealDB](https://www.themealdb.com/)
 
 
-Dibuat oleh: **Hendra Hermawan**
+Dibuat oleh: **Hendra,** **Alik,** **Suparman,** **Rofi**
 
 ---
