@@ -124,7 +124,7 @@ Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaat
 ## ✨ Credits
 * Sumber Infromasi : Azhar Rivaldi https://www.youtube.com/watch?v=PX15pj-aHPU&t=5s
 
-* API oleh [TheMealDB](https://www.themealdb.com/)
+* API :  [TheMealDB](https://www.themealdb.com/)
 
 
 Dibuat oleh: **Hendra,** **Alik,** **Suparman,** **Rofi**
