@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.hendra.resepmakanan.app-mergeDebugResources-34:/layout/list_item_filter_food.xml",
+        "source": "com.hendra.resepmakanan.app-main-37:/layout/list_item_filter_food.xml"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-mergeDebugResources-34:/layout/activity_filter_food.xml",
+        "source": "com.hendra.resepmakanan.app-main-37:/layout/activity_filter_food.xml"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-mergeDebugResources-34:/layout/toolbar_main.xml",
+        "source": "com.hendra.resepmakanan.app-main-37:/layout/toolbar_main.xml"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-mergeDebugResources-34:/layout/activity_detail_recipe.xml",
+        "source": "com.hendra.resepmakanan.app-main-37:/layout/activity_detail_recipe.xml"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-mergeDebugResources-34:/layout/list_item_categories.xml",
+        "source": "com.hendra.resepmakanan.app-main-37:/layout/list_item_categories.xml"
+    },
+    {
+        "merged": "com.hendra.resepmakanan.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.hendra.resepmakanan.app-main-37:/layout/activity_main.xml"
+    }
+]

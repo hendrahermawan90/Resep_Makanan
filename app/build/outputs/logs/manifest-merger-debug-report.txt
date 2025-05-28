@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\153e7871b5a16994d35cdfeccd4665b0\transformed\jetified-viewbinding-8.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b0ce63b9f01bd3463e57e19935fb911e\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f19ca8fa42b0e1a787bbf0f36216da3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\9d6985ceadf40385128f325d9c6e7faa\transformed\jetified-android-networking-1.0.4\AndroidManifest.xml:18:1-25:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ed51876f5762fce922110f3d1cedf09f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\4d74a6775002bc48ffbc7223a5c4d4d3\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\7cea5590b67e7516e709276116aae6f1\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\01cee7824979e9aa16bca46bb5ee65b5\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ba79c707ddf87bd948264f3770a812ff\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b5872693918f41635a272728cd88b7d9\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\38989d1b66bb142bcfc9c63991cd7773\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6771da0568809e55f36832966aee1fed\transformed\jetified-glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\3e1ecee7dd29c28c401ccfcff514b3c0\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b5c2d00a47843fe7abac185fdfde0bc7\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\fc6702a6e542be162c61b5186978dbde\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\c9867a81daae737bd6765d37646db0e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\0a26d070c403d607fc1fdfedccbed7d0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f3ca83a49c1b0a2f2d45215a252744da\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ac5512f467258b3e02b4be06beeb9612\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\12342889da10de016275ec079d69b570\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\00d5c22a349e4be96e58f708414e5cb5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\2109b5014d96c6c77388e254c44d6e6d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\9f7902178e3021fae3d9da7d1a1d06b8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\122dcc6bcc78d21914d06977ae26d17c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\0c9801c219d82dcde8d5f0db8ca668d2\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e2d61ab6e13a0a815e543dd05a834d2a\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\72712e768ed7465687a7845ae85c7523\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\a2646e04fdba21279ca3e6928a22f20f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\8c625bbea026eeb81c9be1ab2143ea6f\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8c6e931e6e7f2d9c731dc8ddc2c2f64\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\75939866e58ba4b5aba3deeaa5bff439\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\11b3e8def2b067f96c156a60ba854fcb\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e93471914b3b45a15b7ca0da545b1af0\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5be1e571bfc408c94c06be1bb88efb21\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\4e630989415828557777f5e72f660502\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\61394aaa7398251cbf9bfb5f5ab7fa56\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\dd2c72580739a16257177f87a92ed207\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\67007f68aa0953d0dbc6a6b22178bcbb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5d540dded6e4410c1deac0e2175a34fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\24f83c6655f6667c50543bd0e6b59a5c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\bd0988fc434aa54df9a5daf7a7dd581f\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\af70e9011251326b66e61990677d6624\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\2d00b67c24e3b0a1aed9d8039b3347c4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\47b2740bf9293c397643354cda753dfc\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\bbf65f4582eb9415f037384dbb078f73\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:7:5-34:19
+INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b0ce63b9f01bd3463e57e19935fb911e\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b0ce63b9f01bd3463e57e19935fb911e\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f19ca8fa42b0e1a787bbf0f36216da3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f19ca8fa42b0e1a787bbf0f36216da3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\11b3e8def2b067f96c156a60ba854fcb\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\11b3e8def2b067f96c156a60ba854fcb\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\dd2c72580739a16257177f87a92ed207\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\dd2c72580739a16257177f87a92ed207\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5d540dded6e4410c1deac0e2175a34fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5d540dded6e4410c1deac0e2175a34fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.hendra.resepmakanan.activities.MainActivity
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:exported
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:18:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.hendra.resepmakanan.activities.DetailRecipeActivity
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:27:9-29:39
+	android:exported
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:28:13-60
+activity#com.hendra.resepmakanan.activities.FilterFoodActivity
+ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:30:9-32:39
+	android:exported
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml:31:13-58
+uses-sdk
+INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\153e7871b5a16994d35cdfeccd4665b0\transformed\jetified-viewbinding-8.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\153e7871b5a16994d35cdfeccd4665b0\transformed\jetified-viewbinding-8.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b0ce63b9f01bd3463e57e19935fb911e\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b0ce63b9f01bd3463e57e19935fb911e\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f19ca8fa42b0e1a787bbf0f36216da3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f19ca8fa42b0e1a787bbf0f36216da3b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\9d6985ceadf40385128f325d9c6e7faa\transformed\jetified-android-networking-1.0.4\AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\9d6985ceadf40385128f325d9c6e7faa\transformed\jetified-android-networking-1.0.4\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ed51876f5762fce922110f3d1cedf09f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ed51876f5762fce922110f3d1cedf09f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\4d74a6775002bc48ffbc7223a5c4d4d3\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\4d74a6775002bc48ffbc7223a5c4d4d3\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\7cea5590b67e7516e709276116aae6f1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\7cea5590b67e7516e709276116aae6f1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\01cee7824979e9aa16bca46bb5ee65b5\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\01cee7824979e9aa16bca46bb5ee65b5\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ba79c707ddf87bd948264f3770a812ff\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ba79c707ddf87bd948264f3770a812ff\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b5872693918f41635a272728cd88b7d9\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b5872693918f41635a272728cd88b7d9\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\38989d1b66bb142bcfc9c63991cd7773\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\38989d1b66bb142bcfc9c63991cd7773\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6771da0568809e55f36832966aee1fed\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6771da0568809e55f36832966aee1fed\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\3e1ecee7dd29c28c401ccfcff514b3c0\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\3e1ecee7dd29c28c401ccfcff514b3c0\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b5c2d00a47843fe7abac185fdfde0bc7\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b5c2d00a47843fe7abac185fdfde0bc7\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\fc6702a6e542be162c61b5186978dbde\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\fc6702a6e542be162c61b5186978dbde\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\c9867a81daae737bd6765d37646db0e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\c9867a81daae737bd6765d37646db0e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\0a26d070c403d607fc1fdfedccbed7d0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\0a26d070c403d607fc1fdfedccbed7d0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f3ca83a49c1b0a2f2d45215a252744da\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\f3ca83a49c1b0a2f2d45215a252744da\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ac5512f467258b3e02b4be06beeb9612\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\ac5512f467258b3e02b4be06beeb9612\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\12342889da10de016275ec079d69b570\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\12342889da10de016275ec079d69b570\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\00d5c22a349e4be96e58f708414e5cb5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\00d5c22a349e4be96e58f708414e5cb5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\2109b5014d96c6c77388e254c44d6e6d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\2109b5014d96c6c77388e254c44d6e6d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\9f7902178e3021fae3d9da7d1a1d06b8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\9f7902178e3021fae3d9da7d1a1d06b8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\122dcc6bcc78d21914d06977ae26d17c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\122dcc6bcc78d21914d06977ae26d17c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\0c9801c219d82dcde8d5f0db8ca668d2\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\0c9801c219d82dcde8d5f0db8ca668d2\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e2d61ab6e13a0a815e543dd05a834d2a\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e2d61ab6e13a0a815e543dd05a834d2a\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\72712e768ed7465687a7845ae85c7523\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\72712e768ed7465687a7845ae85c7523\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\a2646e04fdba21279ca3e6928a22f20f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\a2646e04fdba21279ca3e6928a22f20f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\8c625bbea026eeb81c9be1ab2143ea6f\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\8c625bbea026eeb81c9be1ab2143ea6f\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8c6e931e6e7f2d9c731dc8ddc2c2f64\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8c6e931e6e7f2d9c731dc8ddc2c2f64\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\75939866e58ba4b5aba3deeaa5bff439\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\75939866e58ba4b5aba3deeaa5bff439\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\11b3e8def2b067f96c156a60ba854fcb\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\11b3e8def2b067f96c156a60ba854fcb\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e93471914b3b45a15b7ca0da545b1af0\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e93471914b3b45a15b7ca0da545b1af0\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5be1e571bfc408c94c06be1bb88efb21\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5be1e571bfc408c94c06be1bb88efb21\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\4e630989415828557777f5e72f660502\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\4e630989415828557777f5e72f660502\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\61394aaa7398251cbf9bfb5f5ab7fa56\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\61394aaa7398251cbf9bfb5f5ab7fa56\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\dd2c72580739a16257177f87a92ed207\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\dd2c72580739a16257177f87a92ed207\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\67007f68aa0953d0dbc6a6b22178bcbb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\67007f68aa0953d0dbc6a6b22178bcbb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5d540dded6e4410c1deac0e2175a34fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\5d540dded6e4410c1deac0e2175a34fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\24f83c6655f6667c50543bd0e6b59a5c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\24f83c6655f6667c50543bd0e6b59a5c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\bd0988fc434aa54df9a5daf7a7dd581f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\bd0988fc434aa54df9a5daf7a7dd581f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\af70e9011251326b66e61990677d6624\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\af70e9011251326b66e61990677d6624\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\2d00b67c24e3b0a1aed9d8039b3347c4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\2d00b67c24e3b0a1aed9d8039b3347c4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\47b2740bf9293c397643354cda753dfc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\47b2740bf9293c397643354cda753dfc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\bbf65f4582eb9415f037384dbb078f73\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\bbf65f4582eb9415f037384dbb078f73\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HENDRA\AndroidStudioProjects\Resep_Makanan-hendra\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\dd2c72580739a16257177f87a92ed207\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\dd2c72580739a16257177f87a92ed207\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\d8ed882a02081848b2d663cc4c8dc20b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.hendra.resepmakanan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.hendra.resepmakanan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\6b30ec0498610ad881747a19506c9e8d\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\e7ce31b7efc129b9384433b78690900d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\HENDRA\.gradle\caches\8.10.2\transforms\b41098cefb1f4d83d88112449f5a845b\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

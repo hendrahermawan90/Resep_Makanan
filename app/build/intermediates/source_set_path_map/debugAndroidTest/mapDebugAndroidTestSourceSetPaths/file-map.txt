@@ -1,0 +1,6 @@
+com.hendra.resepmakanan.test.app-androidTest-0 C:\Users\HENDRA\AndroidStudioProjects\Resep-master\app\build\generated\res\resValues\androidTest\debug
+com.hendra.resepmakanan.test.app-mergeDebugAndroidTestResources-1 C:\Users\HENDRA\AndroidStudioProjects\Resep-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.hendra.resepmakanan.test.app-mergeDebugAndroidTestResources-2 C:\Users\HENDRA\AndroidStudioProjects\Resep-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.hendra.resepmakanan.test.app-debugAndroidTest-3 C:\Users\HENDRA\AndroidStudioProjects\Resep-master\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.hendra.resepmakanan.test.app-jetified-annotation-experimental-1.3.0-4 C:\Users\HENDRA\Downloads\JDK17\caches\8.10.2\transforms\e93471914b3b45a15b7ca0da545b1af0\transformed\jetified-annotation-experimental-1.3.0\res
+com.hendra.resepmakanan.test.app-jetified-core-1.5.0-5 C:\Users\HENDRA\Downloads\JDK17\caches\8.10.2\transforms\f9cf912dd945b51e03c43d607c28a560\transformed\jetified-core-1.5.0\res
