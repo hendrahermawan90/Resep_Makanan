@@ -120,7 +120,7 @@ Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaat
 
 ## 📲 Screenshot (Opsional)
 
-![UI](https://github.com/user-attachments/assets/d23a9ef8-c957-435c-a178-4542e33c8b2d)
+![ss](https://github.com/user-attachments/assets/419eca45-1a64-4721-b98b-e82cde09ca34)
 
 ---
 
