@@ -3,11 +3,13 @@
 Selamat datang di **Aplikasi Resep Makanan Android**, sebuah aplikasi mobile yang memungkinkan pengguna mencari dan melihat berbagai resep makanan dari seluruh dunia langsung dari genggaman tangan. Aplikasi ini terintegrasi dengan [TheMealDB API](https://www.themealdb.com/api.php), yang menyediakan koleksi resep lengkap, termasuk bahan, langkah memasak, dan video tutorial.
 
 ## 📱 Fitur Utama
-- 📚 Jelajahi kategori makanan (dessert, seafood, dll)
-- 🍽️ Pilih masakan yang mau Anda buat
-- 📋 Lihat detail bahan dan langkah memasak
-- 🎥 Tonton video tutorial dari YouTube langsung di aplikasi
-- 🌐 Jelajahi website lengkap untuk resep-resep menarik lainnya
+
+* 📚 Jelajahi kategori makanan (dessert, seafood, dll)
+* 🍽️ Pilih masakan yang mau Anda buat
+* 🔍 Pencarian resep berdasarkan nama makanan
+* 📋 Lihat detail bahan dan langkah memasak
+* 🎥 Tonton video tutorial dari YouTube langsung di aplikasi
+* 🌐 Jelajahi website lengkap untuk resep-resep menarik lainnya
 
 ---
 
@@ -26,6 +28,7 @@ Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaat
 
 * Menampilkan daftar kategori resep makanan.
 * Klik kategori akan membuka halaman filter.
+* **Menyediakan fitur pencarian resep berdasarkan nama masakan.**
 
 🔧 Komponen:
 
@@ -111,6 +114,7 @@ Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaat
 * ✅ Tampilkan daftar resep per kategori
 * ✅ Navigasi antar halaman (Main → Filter → Detail)
 * ✅ UI responsif dan rapi
+* ✅ Pencarian resep berdasarkan nama masakan
 
 ---
 
@@ -120,12 +124,11 @@ Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaat
 
 ---
 
-
 ## ✨ Credits
-* Sumber Infromasi : Azhar Rivaldi https://www.youtube.com/watch?v=PX15pj-aHPU&t=5s
+
+* Sumber Infromasi : Azhar Rivaldi [https://www.youtube.com/watch?v=PX15pj-aHPU\&t=5s](https://www.youtube.com/watch?v=PX15pj-aHPU&t=5s)
 
 * API :  [TheMealDB](https://www.themealdb.com/)
-
 
 Dibuat oleh: **Hendra,** **Alik,** **Suparman,** **Rofi**
 
