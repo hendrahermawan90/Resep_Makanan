@@ -58,6 +58,8 @@ Proyek ini dibuat sebagai latihan pengembangan aplikasi Android dengan memanfaat
 🎯 Fungsi:
 
 * Menampilkan detail resep: nama, gambar, bahan-bahan, dan cara memasak.
+* Tombol yang mengarah ke Video tutorial cara memasak di Youtube
+* Tombol yang mengarah ke website penyedia resep
 
 🔧 Komponen:
 
